@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ATM" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ATM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ATM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ATM.cpp" />
+		<Unit filename="ATM.h" />
+		<Unit filename="Account.cpp" />
+		<Unit filename="Account.h" />
+		<Unit filename="Bank.cpp" />
+		<Unit filename="Bank.h" />
+		<Unit filename="BankAmount.txt" />
+		<Unit filename="BankInfo.txt" />
+		<Unit filename="CashDispenser.cpp" />
+		<Unit filename="CashDispenser.h" />
+		<Unit filename="Deposit.h" />
+		<Unit filename="Display.cpp" />
+		<Unit filename="Display.h" />
+		<Unit filename="FileLog.txt" />
+		<Unit filename="InquireBalance.h" />
+		<Unit filename="Keyboard.cpp" />
+		<Unit filename="Keyboard.h" />
+		<Unit filename="Logger.cpp" />
+		<Unit filename="Logger.h" />
+		<Unit filename="Person.cpp" />
+		<Unit filename="Person.h" />
+		<Unit filename="Transaction.h" />
+		<Unit filename="ValidateAmount.h" />
+		<Unit filename="Withdraw.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

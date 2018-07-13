@@ -1,0 +1,9 @@
+ATM1 1234 Daniel Phillips 1700
+ATM2 1234 Sara Wilson 3020
+ATM3 1234 Katherine Hall 11620
+ATM4 1234 Emily Alexander 1230
+ATM5 1234 Jeremy Clark 2400
+ATM6 9999 Evelyn Russell 1460
+ATM7 1234 Jane Cox 8300
+ATM8 1234 Bobby Ward 3450
+ATM9 1234 Matthew Johnson 7500
